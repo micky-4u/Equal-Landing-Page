@@ -23,14 +23,7 @@ function App() {
         <CallToAction />
         <Footer />
       </div>
-      <div className="fixed bottom-0 right-0 p-4">
-        <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
-          <img src={viteLogo} className="logo vite" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
+     
     </>
   )
 }
